@@ -1,12 +1,13 @@
 
 Is Kenya's economy growing faster than its population?
 
-The answer turns out to be yes, and meaningfully so: while population grew 7.4% over five years, GDP per capita grew 41.0%, leaving a 33.5% real income gain per person. The dashboard makes that gap visible at a glance.
+The answer turns out to be yes, and meaningfully so: while population grew 7.4% over five years, GDP per capita grew 41.0%, leaving a 33.5% real income gain per person. 
+This suggests Kenya's growth is outpacing demographic pressure — a positive signal for per-capita public investment and consumer spending trends.
+The dashboard makes that gap visible at a glance.
 
 **About this project**
 This project transforms a raw long-format dataset of Kenyan economic indicators into an interactive, formula-driven Excel dashboard. 
-The goal: turn a 80-row table of (id, indicator, year, value) into a one-page view that answers a single question — is Kenya's economy growing faster than its population? 
-The dashboard makes that gap visible at a glance.
+
 <img width="612" height="518" alt="image" src="https://github.com/user-attachments/assets/8919c9e7-89d0-4f1a-ab4e-232ba53eef43" />
 
 **Approach**
@@ -24,5 +25,5 @@ GDP per capita trend chart (line) — shows the climb from KSh 219K to KSh 309K
 Growth comparison chart (clustered column) — the punch line: GDP growth dwarfs population growth every year
 
 **Data source**
-Kenya National Bureau of Statistics (KNBS), 2020–2024.
+Kenya National Bureau of Statistics (KNBS), Economic Survey 2025.
 
